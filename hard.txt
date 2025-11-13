@@ -1,0 +1,30 @@
+1. OS scheduling?
+A. FIFO
+B. RR
+C. FCFS
+D. LIFO
+B
+2. Best case of Quick Sort?
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(n^2)
+C
+3. Deadlock needs?
+A. Hold & wait
+B. No preemption
+C. Mutual exclusion
+D. All
+D
+4. SQL means?
+A. Simple Query Language
+B. Structured Query Language
+C. Serial Query Logic
+D. Standard Quick Language
+B
+5. TCP works on?
+A. Transport
+B. Network
+C. Data link
+D. Physical
+A

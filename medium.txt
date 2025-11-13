@@ -1,0 +1,30 @@
+1. Time complexity of Binary Search?
+A. O(n)
+B. O(n log n)
+C. O(log n)
+D. O(1)
+C
+2. Best worst-case sorting?
+A. Bubble
+B. Quick
+C. Merge
+D. Insertion
+C
+3. Not OOP?
+A. Encapsulation
+B. Inheritance
+C. Polymorphism
+D. Compiler
+D
+4. Java file extension?
+A. .java
+B. .cpp
+C. .txt
+D. .class
+A
+5. RAM is?
+A. Permanent
+B. Temporary
+C. Input
+D. Output
+B
